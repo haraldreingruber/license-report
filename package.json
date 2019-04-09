@@ -24,6 +24,7 @@
     "debug": "^3.1.0",
     "lodash": "^4.17.11",
     "rc": "^1.2.8",
+    "read-installed": "^4.0.3",
     "request": "^2.88.0",
     "semver": "^5.4.1",
     "stubborn": "^1.2.4",
